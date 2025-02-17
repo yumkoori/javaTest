@@ -14,8 +14,6 @@ public class Ex01 {
 
  * */
 	
-	
-	
 	public static void main(String[] args) throws IOException {
 		int com, user;
 		Scanner scanner = new Scanner(System.in);
